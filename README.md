@@ -62,3 +62,6 @@ Ao utilizar este repositório você deve ter:
 
 (Adicione este documento como anexo ao repositório privado ou mantenha em repositório de políticas interno.)
 
+---
+⚠️ Este projeto está sob a licença MIT, porém com a seguinte condição adicional:
+**É proibido o uso deste código para atividades não autorizadas, testes sem consentimento ou qualquer fim malicioso.**
